@@ -1,0 +1,7 @@
+streamlit
+moviepy
+transformers
+torch
+torchvision
+torchaudio
+openai-whisper
